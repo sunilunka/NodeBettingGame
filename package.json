@@ -1,0 +1,19 @@
+{
+  "name": "nodebettinggame",
+  "version": "0.0.0",
+  "description": "node based betting game for Lighthouse Labs",
+  "main": "application.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git init"
+  },
+  "keywords": [
+    "betting",
+    "game"
+  ],
+  "author": "Sunil Unka",
+  "license": "None"
+}
